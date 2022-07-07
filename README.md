@@ -6,7 +6,7 @@
 
 
 
-![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=robovmp&show_icons=true&theme=dark)
+
 
 ## Tecnologias que estou atualmente usando:
 
