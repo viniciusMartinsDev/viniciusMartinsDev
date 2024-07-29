@@ -6,7 +6,7 @@ I am a full-stack developer person, dedicated to study and personal improvement.
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,linux,docker,postgres)](https://skillicons.dev)
 
