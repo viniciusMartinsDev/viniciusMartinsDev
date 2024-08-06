@@ -2,7 +2,16 @@
 
 
 ## 🚀 About me
-I am a full-stack developer person, dedicated to study and personal improvement.
+
+👋 Hello! I'm Vinícius Martins.
+
+🎓 I graduated in Electromechanics from the Federal Institute of Paraná, where I developed projects focused on development during my studies, such as Home Automation for my thesis and an augmented reality sandbox as a course project.
+
+📚 I am currently pursuing a degree in Systems Analysis and Development at PUCPR.
+
+🪖 I dedicated one year of my career to community service in the Brazilian Army, where I earned the honors of Most Distinguished Soldier and Merit Honor.
+
+💻 I am currently working as a Software Developer at VEXUR.
 
 
 ## 🛠 Skills
