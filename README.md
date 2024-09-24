@@ -11,7 +11,6 @@
 
 🪖 I dedicated one year of my career to community service in the Brazilian Army, where I earned the honors of Most Distinguished Soldier and Merit Honor.
 
-💻 I am currently working as a Software Developer at VEXUR.
 
 
 ## 🛠 Skills
