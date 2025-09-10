@@ -34,9 +34,9 @@ Contacts
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,ts,nodejs,nextjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,linux,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,spring,linux,docker,postgres)](https://skillicons.dev)
 
 
 
