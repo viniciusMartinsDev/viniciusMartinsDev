@@ -3,40 +3,33 @@
 
 ## 🚀 About me
 
-Hello! I'm Vinícius Martins!
+Hello! I’m Vinícius Martins!
 
-I have solid experience in back-end and front-end application development, JavaScript, and microservices architecture, along with a strong focus on building RESTful APIs and efficient integrations. I work with technologies such as JavaScript, TypeScript, React, Next.js, Node, Docker, and messaging systems (Kafka, RabbitMQ), always applying best practices like SOLID principles and design patterns.
+I have solid experience in developing back-end and front-end applications with Java, JavaScript, and microservices architecture, as well as a strong background in building RESTful APIs and efficient integrations. I work with technologies such as Java, JavaScript, TypeScript, React, Next.js, NestJS, Node.js, Spring Boot, Docker, and messaging systems (Kafka, RabbitMQ), always applying best practices like SOLID principles and design patterns.
 
-I also have experience with relational databases (PostgreSQL, MySQL), non-relational databases (MongoDB), and graph databases (NEO4J), as well as version control with Git, system modeling using UML, and leveraging cloud services with AWS to build robust and scalable solutions.
+I also have experience with relational databases (PostgreSQL, MySQL), non-relational databases (MongoDB), and graph databases (Neo4j), as well as version control with Git, system modeling in UML, and leveraging AWS cloud services to build robust and scalable solutions.
 
-I'm constantly seeking continuous improvement and value delivery through agile methodologies and modern development practices.
+I constantly strive for continuous improvement and delivering value through agile methodologies and modern development practices.
 
-Skills:
+Skills
 
-Programming Languages: TypeScript and JavaScript
-
-Frameworks & Technologies: Node, React, Next.js, Angular, Docker
-
-Databases: PostgreSQL, MySQL, MongoDB, NEO4J
-
+Programming Languages: Java, TypeScript, JavaScript
+Frameworks & Technologies: Spring Boot, Node.js, React, Next.js, NestJS, Vue, Angular, Docker
+Databases: PostgreSQL, MySQL, MongoDB, Neo4j
 Methodologies & Practices: Microservices, UML, SOLID, Agile
-
-Version Control Tools: Git
-
+Version Control: Git
 Cloud Services: AWS
-
-Messaging: Kafka and RabbitMQ
-
+Messaging Systems: Kafka, RabbitMQ
 APIs: REST, RESTful APIs
-
 Mobile Development: React Native
 
-Contact:
+Contacts
 
 📧 LinkedIn: www.linkedin.com/in/viniciusmartinsdev
+
 📱 WhatsApp: +55 43 9 8840 9928
 
-#Developer #JavaScript #TypeScript #Microservices #AWS #Docker #Kafka #Git #SQL #React #NextJs #Angular
+#Developer #Java #JavaScript #TypeScript #Microservices #AWS #Docker #Kafka #Git #SQL #React #NextJs #Angular
 
 
 
