@@ -27,7 +27,6 @@ Contacts
 
 📧 LinkedIn: www.linkedin.com/in/viniciusmartinsdev
 
-📱 WhatsApp: +55 43 9 8840 9928
 
 #Developer #Java #JavaScript #TypeScript #Microservices #AWS #Docker #Kafka #Git #SQL #React #NextJs #Angular
 
