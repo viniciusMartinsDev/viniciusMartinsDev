@@ -1,31 +1,22 @@
-# Hello, I'm Vinicius! 👋
+# Hi there, I'm Vinícius Martins! 👋
 
+I am a Full-Stack Software Developer focused on building distributed systems, event-driven architecture, and high-performance end-to-end applications. I enjoy solving complex engineering challenges, optimizing queries, and migrating legacy monoliths into scalable frameworks.
 
-## 🚀 About me
+- 🛠️ Currently working extensively with the **Java/Spring** ecosystem and **Kafka** event streaming.
+- 📐 Actively applying **Domain-Driven Design (DDD)**, **SOLID**, and **Clean Code** principles.
+- 🚀 Engineering robust solutions for the fintech landscape and enterprise process automation.
 
-Hello! I’m Vinícius Martins!
+## 🛠️ Tech Stack & Tools
 
-I have solid experience in developing back-end and front-end applications with Java, JavaScript, and microservices architecture, as well as a strong background in building RESTful APIs and efficient integrations. I work with technologies such as Java, JavaScript, TypeScript, React, Next.js, NestJS, Node.js, Spring Boot, Docker, and messaging systems (Kafka, RabbitMQ), always applying best practices like SOLID principles and design patterns.
+- **Languages:** Java, TypeScript, JavaScript, SQL
+- **Back-end:** Spring Boot, Spring Security, Spring Cloud, Spring Data, Node.js
+- **Front-end:** Vue.js, Next.js, Svelte, Nuxt
+- **Messaging & Queues:** Apache Kafka, RabbitMQ
+- **Databases:** PostgreSQL, Neo4j (Graph Databases)
+- **DevOps & Infra:** Docker, Linux (Debian)
 
-I also have experience with relational databases (PostgreSQL, MySQL), non-relational databases (MongoDB), and graph databases (Neo4j), as well as version control with Git, system modeling in UML, and leveraging AWS cloud services to build robust and scalable solutions.
-
-I constantly strive for continuous improvement and delivering value through agile methodologies and modern development practices.
-
-Skills
-
-Programming Languages: Java, TypeScript, JavaScript
-Frameworks & Technologies: Spring Boot, Node.js, React, Next.js, NestJS, Vue, Angular, Docker
-Databases: PostgreSQL, MySQL, MongoDB, Neo4j
-Methodologies & Practices: Microservices, UML, SOLID, Agile
-Version Control: Git
-Cloud Services: AWS
-Messaging Systems: Kafka, RabbitMQ
-APIs: REST, RESTful APIs
-Mobile Development: React Native
-
-Contacts
-
-📧 LinkedIn: www.linkedin.com/in/viniciusmartinsdev
+---
+📫 How to reach me: [www.linkedin.com/in/viniciusmartinsdev](https://www.linkedin.com/in/viniciusmartinsdev/) | [vinicius.martins.developer@gmail.com]
 
 
 #Developer #Java #JavaScript #TypeScript #Microservices #AWS #Docker #Kafka #Git #SQL #React #NextJs #Angular
