@@ -6,8 +6,8 @@ I am a Full-Stack Software Developer focused on building distributed systems, ev
 - 🚀 Engineering robust solutions for the fintech landscape and enterprise process automation.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** TypeScript, JavaScript, SQL
-- **Back-end:** Node.js, NestJS, Fastify, Express, Prisma, TypeORM
+- **Languages:** TypeScript, JavaScript, Java, SQL
+- **Back-end:** Node.js, NestJS, Fastify, Express, Spring Boot, Spring Security, Spring Cloud, Spring Data
 - **Front-end:** Vue.js, Next.js, Svelte, Nuxt
 - **Messaging & Queues:** Apache Kafka, RabbitMQ
 - **Databases:** PostgreSQL, Neo4j (Graph Databases)
