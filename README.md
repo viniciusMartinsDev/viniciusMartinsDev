@@ -1,13 +1,13 @@
 # Hi there, I'm Vinícius Martins! 👋
 
 I am a Full-Stack Software Developer focused on building distributed systems, event-driven architecture, and high-performance end-to-end applications. I enjoy solving complex engineering challenges, optimizing queries, and migrating legacy monoliths into scalable frameworks.
-- 🛠️ Currently working extensively with the **Node.js/TypeScript** ecosystem and **Kafka** event streaming.
+- 🛠️ Currently working extensively with the **Java/Spring** ecosystem and **Kafka** event streaming.
 - 📐 Actively applying **Domain-Driven Design (DDD)**, **SOLID**, and **Clean Code** principles.
 - 🚀 Engineering robust solutions for the fintech landscape and enterprise process automation.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** TypeScript, JavaScript, Java, SQL
-- **Back-end:** Node.js, NestJS, Fastify, Express, Spring Boot, Spring Security, Spring Cloud, Spring Data
+- **Languages:** Java, TypeScript, JavaScript, SQL
+- **Back-end:** Spring Boot, Spring Security, Spring Cloud, Spring Data, Node.js, NestJS, Fastify, Express
 - **Front-end:** Vue.js, Next.js, Svelte, Nuxt
 - **Messaging & Queues:** Apache Kafka, RabbitMQ
 - **Databases:** PostgreSQL, Neo4j (Graph Databases)
