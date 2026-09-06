@@ -32,7 +32,7 @@ monoliths into scalable architectures.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmartinsdev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/viniciusmartinsdev/](https://www.linkedin.com/in/vinicius-martins-pedro/))
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.martins.developer@gmail.com?subject=Olá,%20Tudo%20Bem)
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/viniciusmartinsdev/) | vinicius.martins.developer@gmail.com
